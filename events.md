@@ -14,6 +14,19 @@ Anyone with an account can create an event. Tap "Create Event" on the home page,
 
 Share any of these and people can join. As host, you upload photos like everyone else — your photos appear in the gallery immediately since you're automatically trusted.
 
+## Sharing an event
+
+The event page has a "Share this event" card with everything you need to invite people:
+
+- **Join link** — the full URL. Tap the copy icon to copy it to your clipboard, then paste it into a text, email, or group chat.
+- **Event code** — a short code people can type in manually from the home page. Also has a copy icon.
+- **QR code** — scannable by any phone camera. Great for in-person events.
+
+Below the QR code you'll find two buttons:
+
+- **Print** — opens a clean, printable page with the event name, date, and a large QR code. Print it and put it on a table at a wedding, tape it to a fridge at a family gathering, or hand it out at a party. People scan the QR code with their phone camera to join.
+- **Share** — appears on phones and in Safari. Opens your device's native share sheet so you can send the join link via iMessage, WhatsApp, email, AirDrop, or any other app. On browsers that don't support the share sheet (like Chrome on desktop), this button is hidden — use the copy icon on the join link instead.
+
 ## Joining an event
 
 Someone sends you a link. You tap it. If you already have an account, you land in the event and can start uploading. If you're new, you sign up right there — phone number, text code, pick a username — and you're in the event within a minute.
