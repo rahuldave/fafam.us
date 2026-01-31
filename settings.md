@@ -32,6 +32,37 @@ If you change your mind, you can log back in with the same phone number. Your ac
 
 This also works if someone sends you an event link after you've deleted your account. Tap the link, enter your phone number, verify, and your account is restored. You'll land right in the event's join page — tap "Join Event" and you're back.
 
+## Account suspension and bans
+
+### Temporary suspension
+
+Your account may be temporarily suspended if you:
+
+- Upload photos that other members repeatedly report
+- Spam events with irrelevant or excessive uploads
+- Join events uninvited and behave disruptively
+- Use the platform in ways that interfere with other people's experience
+
+While suspended, you can't sign in. A suspended account can be restored by an admin if the issue is resolved.
+
+### Permanent ban
+
+Your account will be permanently banned for:
+
+- Uploading pornographic, sexually explicit, or nude content
+- Posting content that reveals personal information about others without consent (doxing)
+- Uploading content that harasses, threatens, or targets other users
+- Sharing content that exploits or endangers minors in any way
+- Using the platform to distribute illegal material
+
+A permanent ban is irreversible. When your account is permanently banned:
+
+- **Events you host** are entirely deleted — all photos, members, and the event itself
+- **Pending photos** you uploaded to other people's events are deleted
+- **Approved photos** in other people's events remain — they belong to the event
+- **Your memberships** in other events are removed
+- **Your account is locked** — you cannot sign in again, even with the same phone number
+
 ---
 
 More help: [Home](.) · [Events](events) · [Photos](photos)
