@@ -40,7 +40,7 @@ Fafam is invite-only. You get in one of two ways:
 
 Someone gives you an **invite link** — a URL like `withme.you/i/FAMILY` — that lets you create an account. You enter your phone number, verify with a one-time code sent via text, pick a username, and you're in. From there you can create your own events and invite others.
 
-Or someone shares an **event link** with you — a URL like `withme.you/e/Xk9mQw` — and you sign up right there. You'll land directly in their event after verifying your phone. You can view and upload photos immediately.
+Or someone shares an **event link** with you — a URL like `withme.you/e/Xk9mQw` — and you sign up right there. After verifying your phone and picking a username, you're taken straight to the event's join page. Tap "Join Event" and you can view and upload photos immediately.
 
 Either way, there's no password to remember. When you come back, you sign in with your username and verify with a text code. That's it.
 

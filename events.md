@@ -29,7 +29,7 @@ Below the QR code you'll find two buttons:
 
 ## Joining an event
 
-Someone sends you a link. You tap it. If you already have an account, you land in the event and can start uploading. If you're new, you sign up right there — phone number, text code, pick a username — and you're in the event within a minute.
+Someone sends you a link. You tap it. If you already have an account, you'll see a "Join Event" button — tap it and you're in. If you're new, you sign up right there — phone number, text code, pick a username — and you're taken straight to the event's join page. Tap "Join Event" and you're in within a minute.
 
 Once you're in, you see the full gallery of everyone's photos, sorted by when they were actually taken (not when they were uploaded). Tap any photo to view it full-size, swipe through the gallery, and add captions. To contribute, tap "Add Photos," pick from your camera roll, and they upload in the background. Your photos appear in the gallery once processed.
 

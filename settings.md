@@ -30,6 +30,8 @@ You can delete your account from the Settings page. Scroll past "Sign out" and t
 
 If you change your mind, you can log back in with the same phone number. Your account is restored — username, display name, everything. But your hosted events and their photos are gone permanently. Deletion of content is irreversible; only the account itself can be recovered.
 
+This also works if someone sends you an event link after you've deleted your account. Tap the link, enter your phone number, verify, and your account is restored. You'll land right in the event's join page — tap "Join Event" and you're back.
+
 ---
 
 More help: [Home](.) · [Events](events) · [Photos](photos)
