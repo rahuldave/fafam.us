@@ -48,6 +48,14 @@ Either way, there's no password to remember. When you come back, you sign in wit
 
 If you already have an account, go to [withme.you](https://withme.you) and sign in with your username. We'll text a one-time code to the phone number on file. Enter the code and you're in — straight to your home page with all your events.
 
+### Your profile
+
+Every user has a public profile page at `username.withme.you`. If you've made any of your events public, they'll be listed there — anyone can browse those galleries without needing an account. If none of your events are public, your profile just shows your name and username.
+
+Your profile is how other people discover your shared albums. When someone views an event's member list, each name links to that person's profile. From there they can tap into any public event to browse the gallery.
+
+If you visit your own profile page, you'll be redirected to your home page instead.
+
 ### Privacy
 
 Fafam is built for private sharing by default:
