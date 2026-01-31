@@ -46,7 +46,7 @@ Either way, there's no password to remember. When you come back, you sign in wit
 
 ### Returning users
 
-If you already have an account, go to [withme.you](https://withme.you) and sign in with your username. We'll text a one-time code to the phone number on file. Enter the code and you're in — straight to your home page with all your events.
+If you already have an account, go to [withme.you](https://withme.you) and sign in with your username. We'll text a one-time code to the phone number on file. Enter the code and you're in — straight to your home page with all your events. Your login lasts 30 days before you need to verify again.
 
 ### Your profile
 
