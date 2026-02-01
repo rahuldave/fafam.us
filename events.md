@@ -10,7 +10,7 @@ Anyone with an account can create an event. Tap "Create Event" on the home page,
 
 - A **join link** you can text, email, or drop in a group chat
 - A **QR code** you can show in person (great for weddings — print it on a table card)
-- An **event code** people can type in manually
+- An **event code** people can type in manually on the Join page
 
 Share any of these and people can join. As host, you upload photos like everyone else — your photos appear in the gallery immediately since you're automatically trusted.
 
@@ -19,7 +19,7 @@ Share any of these and people can join. As host, you upload photos like everyone
 The event page has a "Share this event" card with everything you need to invite people:
 
 - **Join link** — the full URL. Tap the copy icon to copy it to your clipboard, then paste it into a text, email, or group chat.
-- **Event code** — a short code people can type in manually from the home page. Also has a copy icon.
+- **Event code** — a short code people can type in on the Join page. Also has a copy icon.
 - **QR code** — scannable by any phone camera. Great for in-person events.
 
 Below the QR code you'll find two buttons:
@@ -29,7 +29,11 @@ Below the QR code you'll find two buttons:
 
 ## Joining an event
 
-Someone sends you a link. You tap it. If you already have an account, you'll see a "Join Event" button — tap it and you're in. If you're new, you sign up right there — phone number, text code, pick a username — and you're taken straight to the event's join page. Tap "Join Event" and you're in within a minute.
+There are two ways to join:
+
+**With a link** — someone sends you a join link. You tap it. If you already have an account, you'll see the event name and a "Join Event" button — tap it and you're in. If you're already a member, you're taken straight to the event. If you're new, you sign up right there — phone number, text code, pick a username — and you're taken straight to the event's join page. Tap "Join Event" and you're in within a minute.
+
+**With a code** — tap "Join Event" on the home page, type in the event code, and tap "Join." You'll be taken straight to the event.
 
 Once you're in, you see the full gallery of everyone's photos, sorted by when they were actually taken (not when they were uploaded). Tap any photo to view it full-size, swipe through the gallery, and add captions. To contribute, tap "Add Photos," pick from your camera roll, and they upload in the background. Your photos appear in the gallery once processed.
 
@@ -57,9 +61,9 @@ Events are **private** by default. Only members can see the gallery.
 
 You can make an event **public**, which means anyone can view the gallery from your profile page at `username.withme.you` without needing an account. They can browse and see every photo, but they can't upload or interact — it's read-only. Useful for sharing wedding galleries or trip photos with people who weren't there. Toggle it on or off anytime from the event page.
 
-## Member profiles
+## Members list
 
-Every event shows its members at the bottom of the page. Each member's name links to their profile at `username.withme.you`. If they've made any of their events public, you'll see those listed on their profile — tap one to browse the gallery. This is how you discover other shared albums from people you know.
+Every event shows its members at the bottom of the page. The list updates automatically — when someone new joins, they'll appear within about 30 seconds without needing to refresh the page. Each member's name links to their profile at `username.withme.you`. If they've made any of their events public, you'll see those listed on their profile — tap one to browse the gallery. This is how you discover other shared albums from people you know.
 
 Only public events appear on someone's profile. Private events are never visible to anyone outside the event.
 
