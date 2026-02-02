@@ -56,6 +56,14 @@ Your profile is how other people discover your shared albums. When someone views
 
 If you visit your own profile page while logged in, you'll see it exactly as others do, with a "Your public page" label at the top so you know you're previewing.
 
+### Groups
+
+Groups let you organize people — your family, your friend group, your team. Create a group from your Settings page, invite people by username, and they accept from their notifications. Groups you host show up on your public profile. For now, groups are a roster; in a future update, you'll be able to invite an entire group to an event at once. See [Groups](groups) for the full guide.
+
+### Notifications
+
+The bell icon in the nav bar shows when you have unread notifications. Right now, notifications are used for group invites — when someone invites you to a group, you'll see a red dot on the bell. Tap it to accept or decline. More notification types (like event invites) are coming.
+
 ### Privacy
 
 Fafam is built for private sharing by default:
@@ -70,4 +78,4 @@ The audience is everyone from a 90-year-old grandparent to a teenager. The desig
 
 ---
 
-More help: [Events](events) · [Photos](photos) · [Settings](settings)
+More help: [Events](events) · [Photos](photos) · [Groups](groups) · [Settings](settings)

@@ -57,4 +57,4 @@ The host and the uploader can download the original photo file. On the photo vie
 
 ---
 
-More help: [Home](.) · [Events](events) · [Settings](settings)
+More help: [Home](.) · [Events](events) · [Groups](groups) · [Settings](settings)

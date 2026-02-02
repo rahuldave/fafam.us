@@ -12,6 +12,15 @@ Your username is set when you first sign up and **cannot be changed**. It's used
 
 Your display name is what other people see next to your photos and in event member lists. It's optional — if you don't set one, your username is shown instead. You can change it anytime from the Settings page.
 
+## Group invite preferences
+
+Under "Group Invite Preferences" on the Settings page, you control who can invite you to groups:
+
+- **Anyone** (default) — any user can send you a group invite.
+- **Shared events only** — only people who share at least one event with you can invite you. Others won't be able to send you an invite at all.
+
+Change this anytime — it takes effect immediately on the next invite attempt.
+
 ## Signing out
 
 Tap "Sign out" on the Settings page. You'll be logged out and returned to the login screen. To get back in, sign in with your username — we'll text a code to your phone.
@@ -65,4 +74,4 @@ A permanent ban is irreversible. When your account is permanently banned:
 
 ---
 
-More help: [Home](.) · [Events](events) · [Photos](photos)
+More help: [Home](.) · [Events](events) · [Photos](photos) · [Groups](groups)

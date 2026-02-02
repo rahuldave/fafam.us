@@ -90,4 +90,4 @@ This cannot be undone. You'll be asked to confirm before anything is deleted.
 
 ---
 
-More help: [Home](.) · [Photos](photos) · [Settings](settings)
+More help: [Home](.) · [Photos](photos) · [Groups](groups) · [Settings](settings)
