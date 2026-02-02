@@ -54,7 +54,7 @@ Every user has a public profile page at `username.withme.you`. If you've made an
 
 Your profile is how other people discover your shared albums. When someone views an event's member list, each name links to that person's profile. From there they can tap into any public event to browse the gallery.
 
-If you visit your own profile page, you'll be redirected to your home page instead.
+If you visit your own profile page while logged in, you'll see it exactly as others do, with a "Your public page" label at the top so you know you're previewing.
 
 ### Privacy
 
