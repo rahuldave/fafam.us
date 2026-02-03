@@ -12,14 +12,14 @@ Your username is set when you first sign up and **cannot be changed**. It's used
 
 Your display name is what other people see next to your photos and in event member lists. It's optional — if you don't set one, your username is shown instead. You can change it anytime from the Settings page.
 
-## Group invite preferences
+## Invite preferences
 
-Under "Group Invite Preferences" on the Settings page, you control who can invite you to groups:
+Under "Invite Preferences" on the Settings page, you control who can invite you to groups and events:
 
-- **Anyone** (default) — any user can send you a group invite.
-- **Shared events only** — only people who share at least one event with you can invite you. Others won't be able to send you an invite at all.
+- **Anyone** (default) — any user can send you a group or event invite.
+- **Shared events only** — only people who share at least one event with you can invite you. Others won't be able to send you an invite at all — no notification is created.
 
-Change this anytime — it takes effect immediately on the next invite attempt.
+This applies to both group invites and event invites. Change it anytime — it takes effect immediately on the next invite attempt.
 
 ## Signing out
 

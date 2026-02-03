@@ -58,11 +58,11 @@ If you visit your own profile page while logged in, you'll see it exactly as oth
 
 ### Groups
 
-Groups let you organize people — your family, your friend group, your team. Create a group from your Settings page, invite people by username, and they accept from their notifications. Groups you host show up on your public profile. For now, groups are a roster; in a future update, you'll be able to invite an entire group to an event at once. See [Groups](groups) for the full guide.
+Groups let you organize people — your family, your friend group, your team. Create a group from your Settings page, invite people by username, and they accept from their notifications. Groups you host show up on your public profile. You can invite an entire group to an event with one tap — every accepted member gets a notification. See [Groups](groups) for the full guide.
 
 ### Notifications
 
-The bell icon in the nav bar shows when you have unread notifications. Right now, notifications are used for group invites — when someone invites you to a group, you'll see a red dot on the bell. Tap it to accept or decline. More notification types (like event invites) are coming.
+The bell icon in the nav bar shows when you have unread notifications. Notifications are used for group invites, event invites, and informational messages (like when you're removed from an event or an invitation is withdrawn). Tap the bell to see your notifications — accept or decline invites, or mark informational ones as read.
 
 ### Privacy
 

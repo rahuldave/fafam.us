@@ -6,7 +6,7 @@ title: Groups — Fafam Help
 
 ## What groups are for
 
-Groups are a way to organize the people you share moments with. A family group, a friend group, a work team — any set of people you'd want to invite to events together. Right now, groups are a roster of people with a name. In a future update, you'll be able to invite an entire group to an event with one tap instead of adding people one by one.
+Groups are a way to organize the people you share moments with. A family group, a friend group, a work team — any set of people you'd want to invite to events together. You can invite an entire group to an event with one tap from the event page — every accepted member gets a notification. See [Events](events) for details on inviting groups to events.
 
 ## Creating a group
 
@@ -49,14 +49,18 @@ If you're the host, you also see the invite form and can remove members.
 
 The host can remove any member from the group page — tap **Remove** next to their name. This deletes their membership and any related notification. If you want them back, you'll need to invite them again.
 
-## Group invite preferences
+## Invite preferences
 
-On your Settings page, under "Group Invite Preferences," you can choose who's allowed to invite you to groups:
+On your Settings page, under "Invite Preferences," you can choose who's allowed to invite you to groups and events:
 
 - **Anyone** (default) — any user on the platform can invite you.
 - **Shared events only** — only people who share at least one event with you can invite you. If someone you don't share an event with tries to invite you, they'll see an error and no notification is sent to you.
 
-This is a way to control unsolicited invites. If you're new and only know the people who invited you to events, "shared events only" keeps things limited to people you've actually connected with.
+This applies to both group invites and event invites. If you're new and only know the people who invited you to events, "shared events only" keeps things limited to people you've actually connected with.
+
+## Leaving a group
+
+If you're a member of a group (not the host), you can leave anytime. On the group page, tap **Leave Group** at the bottom. You're removed immediately. If you want to rejoin later, the host will need to invite you again.
 
 ## Groups on your profile
 

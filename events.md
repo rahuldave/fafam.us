@@ -61,6 +61,41 @@ Events are **private** by default. Only members can see the gallery.
 
 You can make an event **public**, which means anyone can view the gallery from your profile page at `username.withme.you` without needing an account. They can browse and see every photo, but they can't upload or interact — it's read-only. Useful for sharing wedding galleries or trip photos with people who weren't there. Toggle it on or off anytime from the event page.
 
+## Inviting people to an event
+
+As host, you can invite specific people or entire groups directly from the event page. Scroll down to the "Invite people" section (only visible to hosts).
+
+### Inviting a user
+
+Type a username into the "Invite a user" box. As you type, suggestions appear — same autocomplete as group invites. Pick a name and tap **Invite User**. The person gets a notification with Accept and Decline buttons. If they accept, they're automatically added to the event — no need to use the join link.
+
+### Adding a group
+
+Type a group name into the "Add a group" box to search your groups. Pick one and tap **Add Group**. Every accepted member of that group gets an event invite notification. If someone joins the group later (accepts a pending group invite), they'll automatically get the event invite too.
+
+### Revoking invites
+
+In the invite status list, you can revoke any pending or declined invite — tap **Revoke** next to the user's name. The invite notification is removed and the user is notified that the invitation was withdrawn. You cannot revoke an invite after someone has already joined.
+
+To remove a group from the event, tap **Remove** next to the group name. Pending invites from that group are revoked and affected users are notified.
+
+## Invite-only events
+
+By default, anyone with the join link or event code can join your event. If you want to restrict access, toggle **Invite only** on the event page (next to the visibility toggle).
+
+When invite-only is on:
+- Only users who have been invited (directly or via a group) can join the event
+- The join link and QR code still work for sharing — but uninvited users who try to join will see an "Invite only" message instead
+- Users you've already invited can still accept and join normally
+
+Toggle it off anytime to open the event back up. This is useful for private gatherings where you want to control exactly who's in.
+
+## Removing members
+
+As host, you can remove any member from the event. In the Members section at the bottom of the event page, tap **Remove** next to their name. They're removed immediately and notified. Removing someone doesn't prevent them from rejoining via the event link — if you want to block that, make the event invite-only or rotate the join code.
+
+You can also remove members from the moderation panel.
+
 ## Members list
 
 Every event shows its members at the bottom of the page. The list updates automatically — when someone new joins, they'll appear within about 30 seconds without needing to refresh the page. Each member's name links to their profile at `username.withme.you`. If they've made any of their events public, you'll see those listed on their profile — tap one to browse the gallery. This is how you discover other shared albums from people you know.
