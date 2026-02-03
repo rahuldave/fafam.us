@@ -67,11 +67,17 @@ As host, you can invite specific people or entire groups directly from the event
 
 ### Inviting a user
 
-Type a username into the "Invite a user" box. As you type, suggestions appear — same autocomplete as group invites. Pick a name and tap **Invite User**. The person gets a notification with Accept and Decline buttons. If they accept, they're automatically added to the event — no need to use the join link.
+Type a username into the "Invite a user" box. As you type, suggestions appear — same autocomplete as group invites. Pick a name and tap **Invite User**. The person gets a notification with Accept and Decline buttons. If they accept, they're automatically added to the event.
+
+For **open events** (the default), invited users have two ways to join: accept the notification, or use the join link/QR code like anyone else. The invite is a convenience — a direct notification — but the link still works for everyone.
+
+For **invite-only events**, the notification is required. Uninvited users can't join even with the link.
 
 ### Adding a group
 
 Type a group name into the "Add a group" box to search your groups. Pick one and tap **Add Group**. Every accepted member of that group gets an event invite notification. If someone joins the group later (accepts a pending group invite), they'll automatically get the event invite too.
+
+This is useful for recurring events — a class, a team, a club. Add the group once, and everyone in it gets invited. New members who join the group later automatically get invited to any events the group has been added to.
 
 ### Revoking invites
 
@@ -85,10 +91,11 @@ By default, anyone with the join link or event code can join your event. If you 
 
 When invite-only is on:
 - Only users who have been invited (directly or via a group) can join the event
-- The join link and QR code still work for sharing — but uninvited users who try to join will see an "Invite only" message instead
-- Users you've already invited can still accept and join normally
+- The join link and QR code are still shown (titled "Event information" instead of "Share this event") so invited users can use them to join — but uninvited users who try will see an "Invite only" message
+- The Share button is hidden since sharing the link with non-invited people won't help them join
+- Invited users can accept from their notifications or scan the QR code — both work
 
-Toggle it off anytime to open the event back up. This is useful for private gatherings where you want to control exactly who's in.
+Toggle it off anytime to open the event back up. This is useful for classes, private gatherings, or any situation where you want to control exactly who's in.
 
 ## Removing members
 
