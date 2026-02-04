@@ -60,7 +60,7 @@ If you visit your own profile page while logged in, you'll see it exactly as oth
 
 ### Groups
 
-Groups let you organize people — your family, your friend group, your team. Create a group from your Settings page, invite people by username, and they accept from their notifications. Groups you host show up on your public profile. You can invite an entire group to an event with one tap — every accepted member gets a notification. See [Groups](groups) for the full guide.
+Groups let you organize people — your family, your friend group, your team. Tap the people icon in the nav bar (between the bell and your avatar) to open the Groups page where you can create groups, view pending invitations, and manage your memberships. Groups you host show up on your public profile. You can invite an entire group to an event with one tap — every accepted member gets a notification. See [Groups](groups) for the full guide.
 
 ### Notifications
 

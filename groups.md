@@ -8,9 +8,19 @@ title: Groups — Fafam Help
 
 Groups are a way to organize the people you share moments with. A family group, a friend group, a work team — any set of people you'd want to invite to events together. You can invite an entire group to an event with one tap from the event page — every accepted member gets a notification. See [Events](events) for details on inviting groups to events.
 
+## The Groups page
+
+Tap the people icon in the nav bar (between the bell and your avatar) to open the Groups page. Here you'll see:
+
+- **Pending invitations** — group invites waiting for your response, with Accept/Decline buttons
+- **Groups you host** — groups you created, with member counts
+- **Groups you're in** — groups where you're a member, showing who hosts each one
+
+Each group name links to its detail page. A **+ Create Group** button at the top right lets you start a new one.
+
 ## Creating a group
 
-Go to your Settings page (tap your initials in the nav bar) and scroll to "Your Groups." Tap **Create Group** and fill in:
+From the Groups page, tap **+ Create Group** and fill in:
 
 - **Group name** — lowercase letters, numbers, and hyphens, 3–30 characters. This becomes part of the group's URL on your profile: `yourusername.withme.you/groups/groupname`.
 - **Display name** (optional) — a friendly name like "The Daves" or "Book Club." If set, this is what people see instead of the URL-style name.
@@ -22,7 +32,7 @@ You're the host of any group you create. Only you can invite members, remove the
 
 As host, you can add a photo to represent the group. On the group page, tap the circle showing the group's initial — a file picker opens. Select an image, position it in the circular preview (drag to reposition, zoom slider or pinch to adjust), and tap **Save**. The photo is cropped and saved exactly as shown.
 
-The avatar appears on the group page and in group lists. To remove it, tap **Remove** below the photo — the group reverts to showing its initial. Only the host can change or remove the avatar; members see it but can't edit.
+The avatar appears on the group detail page, in the Groups page listings, and in pending invitation cards. To remove it, tap **Remove** below the photo — the group reverts to showing its initial. Only the host can change or remove the avatar; members see it but can't edit.
 
 ## Inviting members
 
@@ -41,9 +51,14 @@ You invite one person at a time. There's no bulk invite.
 
 ## Accepting or declining invites
 
-When someone invites you to a group, you'll see a red dot on the bell icon in the nav bar. Tap it to go to your notifications page. Each group invite shows who invited you and the group name. Tap **Accept** to join or **Decline** to pass. You can also just leave it — pending invites stay until you act on them.
+When someone invites you to a group, you'll see a red dot on the bell icon in the nav bar. You can respond in two places:
 
-After accepting, you can view the group and its members from the group page. A link appears on your Settings page under "Groups you're in."
+- **Groups page** — pending invitations appear at the top with Accept/Decline buttons right there
+- **Notifications page** — tap the bell icon to see all notifications including group invites
+
+Each invite shows who invited you and the group name. Tap **Accept** to join or **Decline** to pass. You can also just leave it — pending invites stay until you act on them.
+
+After accepting, the group moves to "Groups you're in" on the Groups page, and you can view its members from the group detail page.
 
 ## Viewing a group
 
@@ -71,6 +86,8 @@ If you're a member of a group (not the host), you can leave anytime. On the grou
 ## Groups on your profile
 
 Groups you host are listed on your public profile page at `yourusername.withme.you`. Each group name links to the group page where visitors can see the member list. This is public — anyone can see which groups you host.
+
+The Settings page also shows a "Your Groups" link with a count — tap it to go to the full Groups page.
 
 ## Deleting a group
 

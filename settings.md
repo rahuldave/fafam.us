@@ -26,10 +26,10 @@ Below your photo, tap **Remove** to delete it. Your initials will show instead �
 
 ### Where your photo appears
 
-- **Nav bar** — top right, 32×32 pixels
+- **Nav bar** — top right, next to the groups icon
 - **Event member lists** — next to your name
 - **Your public profile** — larger, centered above your name
-- **Comments and reactions** — next to your name
+- **Comments and conversations** — next to your name in event, photo, and group conversations
 
 ## Invite preferences
 
