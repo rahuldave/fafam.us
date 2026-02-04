@@ -62,7 +62,11 @@ Groups let you organize people — your family, your friend group, your team. Cr
 
 ### Notifications
 
-The bell icon in the nav bar shows when you have unread notifications. Notifications are used for group invites, event invites, and informational messages (like when you're removed from an event or an invitation is withdrawn). Tap the bell to see your notifications — accept or decline invites, or mark informational ones as read.
+The bell icon in the nav bar shows when you have unread notifications. Notifications are used for group invites, event invites, comments on your photos, and informational messages (like when you're removed from an event or an invitation is withdrawn). Tap the bell to see your notifications — accept or decline invites, or mark informational ones as read.
+
+### Comments & Reactions
+
+React to photos with emoji (👍 ❤️ 😂 and more) and leave comments on photos or events. The host can turn comments on or off for their event or individual photos. See [Comments & Reactions](comments) for details.
 
 ### Privacy
 
@@ -78,4 +82,4 @@ The audience is everyone from a 90-year-old grandparent to a teenager. The desig
 
 ---
 
-More help: [Events](events) · [Photos](photos) · [Groups](groups) · [Settings](settings)
+More help: [Events](events) · [Photos](photos) · [Comments](comments) · [Groups](groups) · [Settings](settings)

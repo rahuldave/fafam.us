@@ -72,4 +72,4 @@ The host can delete a group from the group page. Tap **Delete Group** at the bot
 
 ---
 
-More help: [Home](.) · [Events](events) · [Photos](photos) · [Settings](settings)
+More help: [Home](.) · [Events](events) · [Photos](photos) · [Comments](comments) · [Settings](settings)

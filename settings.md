@@ -74,4 +74,4 @@ A permanent ban is irreversible. When your account is permanently banned:
 
 ---
 
-More help: [Home](.) · [Events](events) · [Photos](photos) · [Groups](groups)
+More help: [Home](.) · [Events](events) · [Photos](photos) · [Comments](comments) · [Groups](groups)
