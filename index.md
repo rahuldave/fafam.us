@@ -52,6 +52,8 @@ If you already have an account, go to [withme.you](https://withme.you) and sign 
 
 Every user has a public profile page at `username.withme.you`. If you've made any of your events public, they'll be listed there — anyone can browse those galleries without needing an account. If none of your events are public, your profile just shows your name and username.
 
+You can add a profile photo from the Settings page — it appears in the nav bar, on your profile, and next to your name in event member lists. The photo is circular; you position and zoom it before saving. See [Settings](settings) for details.
+
 Your profile is how other people discover your shared albums. When someone views an event's member list, each name links to that person's profile. From there they can tap into any public event to browse the gallery.
 
 If you visit your own profile page while logged in, you'll see it exactly as others do, with a "Your public page" label at the top so you know you're previewing.

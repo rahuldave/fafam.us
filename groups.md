@@ -18,6 +18,12 @@ Go to your Settings page (tap your initials in the nav bar) and scroll to "Your 
 
 You're the host of any group you create. Only you can invite members, remove them, edit the description, or delete the group.
 
+## Group avatar
+
+As host, you can add a photo to represent the group. On the group page, tap the circle showing the group's initial — a file picker opens. Select an image, position it in the circular preview (drag to reposition, zoom slider or pinch to adjust), and tap **Save**. The photo is cropped and saved exactly as shown.
+
+The avatar appears on the group page and in group lists. To remove it, tap **Remove** below the photo — the group reverts to showing its initial. Only the host can change or remove the avatar; members see it but can't edit.
+
 ## Inviting members
 
 On the group page, type a username into the invite box. As you type, suggestions appear — users who share an event with you are shown first with a "shared" badge. You can type with or without the `@` symbol. Pick a name from the list (or type the full username) and tap **Invite**.

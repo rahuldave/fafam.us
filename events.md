@@ -45,6 +45,12 @@ The event name can be changed anytime by the host — tap the pencil icon next t
 
 The description is optional and can be added or changed anytime from the event page — tap the pencil icon or the "+ Add a description…" link below the event name. It shows up on your home page, the event page, and on your public profile if the event is public. Keep it short — 300 characters max.
 
+## Event avatar
+
+As host, you can add a photo to represent the event — a logo, a location shot, or anything that helps identify it. On the event page, tap the circle showing the event's initial (top right area). A file picker opens — select an image, position it in the circular preview (drag to reposition, zoom slider or pinch to adjust), and tap **Save**. The photo is cropped exactly as shown in the preview.
+
+The avatar appears on the event page. To remove it, tap **Remove** below the photo — the event reverts to showing its initial. Only the host can change or remove the avatar; members see it but can't edit.
+
 ## Event dates
 
 By default, an event's date on the home page and profile is determined automatically — it shows the date of the most recent photo in the event. This usually works well: a wedding event shows the wedding date, a trip event shows the last day of the trip.

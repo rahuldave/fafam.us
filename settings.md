@@ -12,6 +12,25 @@ Your username is set when you first sign up and **cannot be changed**. It's used
 
 Your display name is what other people see next to your photos and in event member lists. It's optional — if you don't set one, your username is shown instead. You can change it anytime from the Settings page.
 
+## Profile photo
+
+Add a profile photo to make it easier for people to recognize you in events and member lists. Your photo appears in the nav bar, on your public profile page, and anywhere your name shows up.
+
+### Adding or changing your photo
+
+On the Settings page, tap your current photo (or the circle with your initials) to choose an image from your device. A circular preview appears — drag to reposition the image, and use the zoom slider (or pinch on mobile) to zoom in or out. When it looks right, tap **Save**. The photo is cropped and saved exactly as you see it in the preview.
+
+### Removing your photo
+
+Below your photo, tap **Remove** to delete it. Your initials will show instead — a colored circle with the first letters of your display name (or username if no display name is set).
+
+### Where your photo appears
+
+- **Nav bar** — top right, 32×32 pixels
+- **Event member lists** — next to your name
+- **Your public profile** — larger, centered above your name
+- **Comments and reactions** — next to your name
+
 ## Invite preferences
 
 Under "Invite Preferences" on the Settings page, you control who can invite you to groups and events:
