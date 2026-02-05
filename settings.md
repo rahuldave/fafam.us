@@ -31,6 +31,35 @@ Below your photo, tap **Remove** to delete it. Your initials will show instead �
 - **Your public profile** — larger, centered above your name
 - **Comments and conversations** — next to your name in event, photo, and group conversations
 
+## Push notifications
+
+You can receive OS-level notifications on your device when someone invites you to a group or event, or when an invitation is withdrawn or you're removed from an event. These appear as banner notifications even when the app isn't open.
+
+### Enabling push notifications
+
+On the Settings page, find the "Push notifications" card and tap **Enable**. Your browser will ask for permission — tap **Allow**. Once enabled, the card will show "Enabled — you'll receive OS notifications."
+
+### What triggers a push notification
+
+- Someone invites you to a **group**
+- Someone invites you to an **event** (directly or via a group)
+- An event **invitation is withdrawn**
+- You're **removed from an event**
+
+### Disabling push notifications
+
+On the Settings page, tap **Disable** in the push notifications card. You'll stop receiving OS notifications immediately. You can re-enable at any time.
+
+### Device requirements
+
+- **Android:** Works in Chrome and other modern browsers — no installation needed
+- **iPhone/iPad:** Requires iOS 16.4 or later, and fafam must be installed on your home screen (Add to Home Screen from Safari). Push notifications only work in the installed app, not in Safari directly.
+- **Desktop:** Works in Chrome, Edge, and Firefox
+
+### Notifications you'll still see without push
+
+Even with push disabled, the bell icon in the nav bar still shows a red dot for unread notifications. You'll see everything when you open the app — push just adds the OS-level alerts so you don't miss time-sensitive invitations.
+
 ## Invite preferences
 
 Under "Invite Preferences" on the Settings page, you control who can invite you to groups and events:
