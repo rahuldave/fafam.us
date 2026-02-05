@@ -46,6 +46,8 @@ On the Settings page, find the "Push notifications" card and tap **Enable**. You
 - An event **invitation is withdrawn**
 - You're **removed from an event**
 
+If the group or event has an avatar, it appears as the notification icon on your device so you can tell at a glance what the notification is about. Otherwise, the standard fafam icon is used.
+
 ### Disabling push notifications
 
 On the Settings page, tap **Disable** in the push notifications card. You'll stop receiving OS notifications immediately. You can re-enable at any time.

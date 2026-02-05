@@ -66,7 +66,11 @@ Groups let you organize people — your family, your friend group, your team. Ta
 
 The bell icon in the nav bar shows when you have unread notifications. Notifications are used for group invites, event invites, comments on your photos, and informational messages (like when you're removed from an event or an invitation is withdrawn). Tap the bell to see your notifications — accept or decline invites, or mark informational ones as read.
 
-You can also enable **push notifications** to get OS-level alerts on your device when you receive invitations — even when the app isn't open. Enable them from the Settings page. See [Settings](settings) for details and device requirements.
+Each notification shows the related entity's image on the right — an event or group avatar, or a photo thumbnail for photo comments and reactions. Comment and reaction notifications include a link that scrolls you directly to the specific comment or reaction on the page.
+
+**Pending invites** (group and event) stay on your notifications page until you accept or decline them, no matter how old they are. **Other notifications** (comments, reactions, removals) are shown for 14 days and then drop off.
+
+You can also enable **push notifications** to get OS-level alerts on your device when you receive invitations — even when the app isn't open. Push notifications show the event or group avatar as the icon when available. Enable them from the Settings page. See [Settings](settings) for details and device requirements.
 
 ### Comments & Reactions
 

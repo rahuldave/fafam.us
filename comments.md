@@ -44,6 +44,13 @@ When someone comments on a photo you uploaded, you'll get a notification. The ev
 
 For reactions, you'll get a notification when a photo you uploaded (or host) reaches certain milestones (every 3 reactions).
 
+Each notification includes a link that takes you directly to the specific comment or reaction on the page — you don't have to scroll to find it. Comment notifications show a thumbnail of the photo (for photo comments) or the event/group avatar. Notification links:
+
+- **Photo comment** — "View comment" takes you to the exact comment on the photo page
+- **Event conversation** — "View conversation" takes you to the comment on the event page
+- **Group conversation** — "View conversation" takes you to the comment on the group page
+- **Reaction milestone** — "View reactions" takes you to the reactions bar on the photo page
+
 ## Disabling comments
 
 Event hosts can turn comments on or off for their entire event, or for individual photos.
