@@ -58,7 +58,7 @@ When someone invites you to a group, you'll see a red dot on the bell icon in th
 
 Each invite shows who invited you and the group name. Tap **Accept** to join or **Decline** to pass. You can also just leave it — pending invites stay until you act on them.
 
-After accepting, the group moves to "Groups you're in" on the Groups page, and you can view its members from the group detail page.
+After accepting, the group moves to "Groups you're in" on the Groups page, and you can view its members from the group detail page. The group host is notified that you joined.
 
 ## Viewing a group
 

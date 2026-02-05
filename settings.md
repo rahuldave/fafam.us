@@ -43,6 +43,8 @@ On the Settings page, find the "Push notifications" card and tap **Enable**. You
 
 - Someone invites you to a **group**
 - Someone invites you to an **event** (directly or via a group)
+- Someone **joins your event** (you're the host)
+- Someone **accepts your group invite** (you're the host)
 - An event **invitation is withdrawn**
 - You're **removed from an event**
 

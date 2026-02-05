@@ -35,6 +35,8 @@ There are two ways to join:
 
 **With a code** — tap "Join Event" on the home page, type in the event code, and tap "Join." You'll be taken straight to the event.
 
+When you join, the event host is notified so they know you've arrived.
+
 Once you're in, you see the full gallery of everyone's photos, sorted by when they were actually taken (not when they were uploaded). Tap any photo to view it full-size, swipe through the gallery, and add captions. To contribute, tap "Add Photos," pick from your camera roll, and they upload in the background. Your photos appear in the gallery once processed.
 
 You can join as many events as you like. They all show up on your home page.
